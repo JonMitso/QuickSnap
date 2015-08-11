@@ -148,6 +148,7 @@ namespace CardGames.GameLogic
 				//TODO: consider playing a sound here...
 			}
 
+
 			// stop the game...
 			_started = false;
 			_gameTimer.Stop ();
